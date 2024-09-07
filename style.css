@@ -24,7 +24,7 @@ ul {
 
 img {
   border-radius: 50%;
-  height: 100px;
+  height: 80px;
   margin-bottom: 20px;
 }
 
@@ -64,7 +64,7 @@ li {
 
 .location {
   color: hsl(75, 94%, 57%);
-  font-weight: 400;
+  font-weight: 600;
   font-size: 0.875rem;
   margin-top: 8px;
 }
