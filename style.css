@@ -54,11 +54,12 @@ li {
 .card {
   background-color: hsl(0, 0%, 12%);
   border-radius: 20px;
-  padding: 30px 40px;
+  padding: 20px 40px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 500px;
 }
 
 .location {
