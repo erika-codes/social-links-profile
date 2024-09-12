@@ -33,8 +33,9 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  color: hsl(0, 0%, 70%);
+li:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 8%);
 }
 
 li {
