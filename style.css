@@ -35,6 +35,9 @@ a {
 
 li:hover {
   background-color: hsl(75, 94%, 57%);
+}
+
+li:hover a {
   color: hsl(0, 0%, 8%);
 }
 
